@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">ProyectoFinalDB</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Correo electrónico</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="prompt_nombre">Nombre de usuario</string>
+    <string name="prompt_fechaN">Fecha de nacimiento (AAAA-MM-DD)</string>
+    <string name="action_sign_in">Iniciar sesión</string>
+    <string name="action_sign_up">Registrate</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">El correo no es válido</string>
+    <string name="error_invalid_password">La contraseña debe contar con al menos 1 número, una letra mayúscula y mínimo 6 caracteres</string>
+    <string name="error_incorrect_password">La contraseña no es correcta</string>
+    <string name="error_field_required">Llena todos los campos</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+            completions."
+    </string>
+    <string name="action_modify_usuarios">Usuarios</string>
+    <string name="action_modify_peliculas">Peliculas</string>
+    <string name="action_modify_series">Series</string>
+    <string name="modify">¿Qué deseas administar?</string>
+    <string name="prompt_saldo">Saldo</string>
+    <string name="action_alta">Alta</string>
+    <string name="action_baja">Baja</string>
+    <string name="action_modifica">Actualiza</string>
+    <string name="action_busca">Busca</string>
+    <string name="action_limpia">Limpia</string>
+    <string name="prompt_titulo">Título</string>
+    <string name="prompt_genero">Género</string>
+    <string name="prompt_critica">Críticas</string>
+    <string name="prompt_sinopsis">Sinopsis</string>
+    <string name="prompt_idiomaO">Idioma original</string>
+    <string name="prompt_fechaE">Fecha de estreno (AAAA-MM-DD)</string>
+    <string name="prompt_precio">Precio</string>
+    <string name="ver">¿Qué deseas ver?</string>
+    <string name="genero">Selecciona el género</string>
+    <string name="img">Imágen</string>
+    <string name="prompt_generod">Género:</string>
+    <string name="prompt_idiomaOd">Idioma original:</string>
+    <string name="prompt_fechaEd">Fecha de estreno:</string>
+    <string name="prompt_preciod">Precio:</string>
+    <string name="prompt_puntuacion">Puntuación media (5.0)</string>
+    <string name="prompt_fechaI">Fecha de inicio (AAAA-MM-DD)</string>
+    <string name="action_compra">Compra</string>
+    <string name="action_critica">Critica</string>
+    <string name="prompt_temporada">Temporadas</string>
+    <string name="prompt_capitulo">Capitulos</string>
+    <string name="prompt_seried">Serie:</string>
+    <string name="prompt_temporadad">Temporada:</string>
+    <string name="prompt_correod">Correo:</string>
+    <string name="prompt_saldod">Saldo:</string>
+    <string name="prompt_fechad">Fecha de nacimineto:</string>
+    <string name="prompt_miPerfil">Mi perfil</string>
+    <string name="prompt_duraciond">Duración:</string>
+</resources>

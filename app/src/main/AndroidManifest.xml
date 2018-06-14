@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.alam.proyectofinaldb">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/palomitas"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".LogIn">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Registro" />
+        <activity android:name=".Administrador" />
+        <activity android:name=".Administrador_peliculas" />
+        <activity android:name=".Administrador_series" />
+        <activity android:name=".Administrador_usuarios" />
+        <activity android:name=".Tipo" />
+        <activity android:name=".Peliculas" />
+        <activity android:name=".Genero" />
+        <activity android:name=".Series" />
+        <activity android:name=".Ver_pelicula" />
+        <activity android:name=".Ver_temporada" />
+        <activity android:name=".Ver_capitulo" />
+        <activity android:name=".Ver_series" />
+        <activity android:name=".Perfil"></activity>
+    </application>
+
+</manifest>
